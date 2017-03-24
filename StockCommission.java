@@ -1,23 +1,3 @@
-/*
-  Name: Will Tribble
-  Student ID: 10540462
-  Email: wltribbl@go.olemiss.edu
-  Course Information: CSCI 111 - Section 01
-  Program Source File Name: StockCommission.java
-  Programming Assignment: 01
-  Program Description: This program takes the name of a buyer and the number of stock
-      shares they purchase, then calculates/prints the price of those shares, the amount of
-      commission collected by the stockbroker, and the final total.
-  References: n/a
-  Due Date: Monday 2/27/2017 by 11:59 pm
-
-  In keeping with the honor code policies of the University of Mississippi, the School of
-  Engineering, and the Department of Computer and Information Science, I affirm that I have
-  neither given nor received assistance on this programming assignment. This assignment
-  represents my individual, original effort.
-  ... My Signature is on File.
-*/
-
 // Importing the input ability
 import java.util.Scanner;
 
